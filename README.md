@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhruv12122
-- 👀 I’m interested in gamind and coding
+- 👀 I’m interested in gaming and coding
 - 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on hackathons
 - 📫 connecct with me through my ig dhruv.sable122
